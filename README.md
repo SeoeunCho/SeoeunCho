@@ -8,9 +8,9 @@
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=seoeuncho&show_icons=true">
 </div>
 
------
 
-<br><br>
+
+<br><br><br><br><br><br><br><br><br><br>
 
 # 💪 SKILLS
 <h4 align="center"> ✨ Platforms & Languages ✨ </h4>
