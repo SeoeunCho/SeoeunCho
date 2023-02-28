@@ -22,19 +22,18 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeuncho&layout=compact"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeuncho&layout=compact" style="height:195px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=seoeuncho&show_icons=true">
 </div>
 <br/>
    
-<div align=center>
+<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feroul-ri%2F&count_bg=%233D3D3D&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/seoeuncho/seoeuncho)
 
 </div>
 
-<div align="center">
-   <p>🎨 SNS & Portfolio 🎨</p>
-</div>
+<h4 align="center"> 🎨 SNS & Portfolio 🎨 </h4>
 <div align=center>
    <a href="mailto:jowestsilver@gmail.com">
       <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
