@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20SEOEUN!&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Have%20a%20NICE%20day!🥰&fontSize=48)
 
 # 💪 Skills
 <div>
