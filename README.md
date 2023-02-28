@@ -10,9 +10,9 @@
 
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
-# 💪 SKILLS
+# 💪 Skills
 <h4 align="center"> ✨ Platforms & Languages ✨ </h4>
 <div align="center">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -32,7 +32,7 @@
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br/>
+<br><br>
 
 # 📬 Contacts
 <div align=center>
