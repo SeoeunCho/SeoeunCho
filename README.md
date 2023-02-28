@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feroul-ri%2F&count_bg=%233D3D3D&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/seoeuncho/seoeuncho)
 <div align="center">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeuncho&layout=compact">
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=seoeuncho&show_icons=true">
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=SeoEun&show_icons=true">
 </div>
 
 
