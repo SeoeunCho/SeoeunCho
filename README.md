@@ -17,7 +17,7 @@
 </div>
 
 <div>
-   <h4> 🛠 Tech Stack 🛠 </h4>
+   <h4> 🛠 Tech Stack & Tools 🛠 </h4>
    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
