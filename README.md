@@ -10,8 +10,7 @@
 </div>
 <br/><br/>
 
-
-
+# 💪 SKILLS
 <h4 align="center"> ✨ Platforms & Languages ✨ </h4>
 <div align="center">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -33,7 +32,7 @@
 </div>
 <br/>
 
-<h4 align="center"> 🎨 SNS & Portfolio 🎨 </h4>
+# 📬 Contacts
 <div align=center>
    <a href="mailto:jowestsilver@gmail.com">
       <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
