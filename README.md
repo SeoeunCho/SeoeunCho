@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?text=Hi%20there🙃&animation=twinkling&height=300&color=auto)
 
 # CHO SEO EUN 😉
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feroul-ri%2F&count_bg=%233D3D3D&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/seoeuncho/seoeuncho)
+
 <br/>
 <div>
+   
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feroul-ri%2F&count_bg=%233D3D3D&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/seoeuncho/seoeuncho)
+   
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeuncho&layout=compact" style="height:195px;">
    <img src="https://github-readme-stats.vercel.app/api?username=seoeuncho&show_icons=true">
 </div>
