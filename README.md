@@ -3,7 +3,7 @@
 # 💪 Skills
 <div>
    <h4 align="left"> ✨ Platforms & Languages ✨ </h4> 
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeuncho&layout=compact">
+<!--    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeuncho&layout=compact"> -->
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
