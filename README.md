@@ -2,7 +2,7 @@
 
 # 💪 Skills
 <div>
-   <h4 align="left"> ✨ Platforms & Languages ✨ </h4> 
+   <h4 align="left"> ✨ Languages & Tech Stack ✨ </h4> 
 <!--    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeuncho&layout=compact"> -->
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -18,7 +18,7 @@
 </div>
 
 <div>
-   <h4> 🛠 Tech Stack & Tools 🛠 </h4>
+   <h4> 🛠 Tools 🛠 </h4>
    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white" />
