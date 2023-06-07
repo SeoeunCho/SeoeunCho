@@ -42,10 +42,10 @@
    <a href="mailto:jowestsilver@gmail.com">
       <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
    </a>
-   <a href="https://swamp-output-555.notion.site/Notion-List-379a790a01f04c338668b333dc539bcc" target="_blank">
+   <a href="https://swamp-output-555.notion.site/Notion-List-379a790a01f04c338668b333dc539bcc">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
    </a>
-   <a href="https://seoeuncho.github.io/Portfolio01" target="_blank">
+   <a href="https://seoeuncho.github.io/Portfolio01">
       <img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat&logo=Starship&logoColor=white" />
    </a>
 </div>
