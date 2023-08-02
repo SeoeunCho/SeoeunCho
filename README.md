@@ -40,7 +40,8 @@
 </div>
 <br><br>
 
-# 📬 Contacts
+# 📬 Contacts 
+###### *새탭에서 링크를 열어주세요.
 <div align="right">
    <a href="mailto:jowestsilver@gmail.com">
       <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
