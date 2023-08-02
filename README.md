@@ -21,6 +21,9 @@
    <br><br>
 </div>
 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeuncho&layout=compact"><br> -->
+
+
 <div>
    <h4> 🛠 Tools 🛠 </h4>
    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
