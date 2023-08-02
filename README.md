@@ -48,7 +48,7 @@
 <!--    <a href="https://swamp-output-555.notion.site/Notion-List-379a790a01f04c338668b333dc539bcc">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
    </a> -->
-   <a href="https://enchanting-drip-66d.notion.site/Frontend-Developer-661e000688d04abf94686ae02d8983ff?pvs=4">
+   <a href="https://enchanting-drip-66d.notion.site/Secho-661e000688d04abf94686ae02d8983ff?pvs=4">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
    </a>
    <a href="https://seoeuncho.github.io/Portfolio01">
