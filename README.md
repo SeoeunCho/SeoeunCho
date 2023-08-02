@@ -52,7 +52,7 @@
    <a href="https://enchanting-drip-66d.notion.site/Secho-661e000688d04abf94686ae02d8983ff?pvs=4">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
    </a>
-   <a href="https://seoeuncho.github.io/Portfolio01">
+   <a href="https://SeoeunCho.github.io/Portfolio01">
       <img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat&logo=Starship&logoColor=white" />
    </a>
 </div>
