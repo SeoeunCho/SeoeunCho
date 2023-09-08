@@ -13,8 +13,8 @@
    <img src="https://img.shields.io/badge/Vue.js-41B883?style=flat&logo=Vue.js&logoColor=white" />
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
-   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
-   <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat&logo=Apollo GraphQL&logoColor=white" />
+<!--    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /> -->
+<!--    <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat&logo=Apollo GraphQL&logoColor=white" /> -->
    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white" />
    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 <!--    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
