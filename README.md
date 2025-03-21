@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Have%20a%20NICE%20day!😊&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Have%20a%20NICE%20day!🥰&fontSize=48)
 
 <!-- <img src="https://github.com/user-attachments/assets/cfb43362-aa1c-4633-ab38-b2c7b2fc969a" alt="웃는시바견" width="300"/> -->
 
